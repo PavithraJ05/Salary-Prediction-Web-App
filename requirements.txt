@@ -1,7 +1,7 @@
-pandas 
+pandas
 matplotlib
-seaborn 
-sklearn
-joblib 
-streamlit 
+seaborn
+scikit-learn
+joblib
+streamlit
 streamlit_option_menu
