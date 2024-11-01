@@ -1,13 +1,7 @@
 pandas 
 matplotlib
 seaborn 
-sklearn.preprocessing 
-sklearn.model_selection 
-sklearn.linear_model 
-sklearn.neighbors 
-sklearn.tree 
-sklearn.ensemble
-sklearn.metrics
+sklearn
 joblib 
 streamlit 
 streamlit_option_menu
